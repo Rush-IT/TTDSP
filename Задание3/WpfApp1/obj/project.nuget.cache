@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Ta+hnGqL3MY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Rush_IT\\source\\repos\\WpfApp1\\WpfApp1\\WpfApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rush_IT\\.nuget\\packages\\microsoft.testplatform\\17.11.1\\microsoft.testplatform.17.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
